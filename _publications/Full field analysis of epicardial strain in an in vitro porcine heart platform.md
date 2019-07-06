@@ -1,7 +1,7 @@
 ---
 title: "Full-field analysis of epicardial strain in an in vitro porcine heart platform"
 collection: publications
-permalink: /publication/Full field analysis of epicardial strain in an in vitro porcine heart platform
+permalink: /publication/Full-field analysis of epicardial strain in an in vitro porcine heart platform
 excerpt: 'This paper analyses the performance of 3D-DIC in analysing full-field strains in the epicardial surface'
 date: 30 November 2018.
 venue: 'Journal of the Mechanical Behavior of Biomedical Materials'
