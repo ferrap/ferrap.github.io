@@ -1,7 +1,7 @@
 ---
 title: "The Accuracy of 3D Optical Reconstruction and Additive Manufacturing Processes in Reproducing Detailed Subject-Specific Anatomy"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/The Accuracy of 3D Optical Reconstruction and Additive Manufacturing Processes in Reproducing Detailed Subject-Specific Anatomy
 excerpt: 'This paper assesses the accuracy of 3D-DIC in the geometric reconstruction of the cardiac surface'
 date: 12 October 2017
 venue: 'Journal of Imaging'
