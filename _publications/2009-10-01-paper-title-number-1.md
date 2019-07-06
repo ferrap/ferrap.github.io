@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "The Accuracy of 3D Optical Reconstruction and Additive Manufacturing Processes in Reproducing Detailed Subject-Specific Anatomy"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper assesses the accuracy of 3D-DIC in the geometric reconstruction of the cardiac surface'
+date: 12 October 2017
+venue: 'Journal of Imaging'
+paperurl: 'https://doi.org/10.3390/jimaging3040045'
+citation: 'Ferraiuoli P.. (2017). &quot;Paper Title Number 1.&quot; <i>J. Imaging</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper assesses the accuracy of 3D-DIC in the geometric reconstruction of the cardiac surface.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.mdpi.com/2313-433X/3/4/45/pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ferraiuoli, P.; Taylor, J.C.; Martin, E.; Fenner, J.W.; Narracott, A.J. The Accuracy of 3D Optical Reconstruction and Additive Manufacturing Processes in Reproducing Detailed Subject-Specific Anatomy. <i>J. Imaging<i> 2017, 3, 45. 
