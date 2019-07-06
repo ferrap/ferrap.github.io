@@ -10,7 +10,7 @@ citation: 'Ferraiuoli, P (2018). &quot;Full-field analysis of epicardial strain 
 ---
 
 This paper analyses the performance of 3D-DIC in analysing full-field strains in the epicardial surface.
-<img src='/images/JMBBM.jpg'>
+
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S1751616118313092/pdfft?md5=72dbbcbc45ee1475882cc267016a789b&pid=1-s2.0-S1751616118313092-main.pdf)
 
