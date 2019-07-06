@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Full-field analysis of epicardial strain in an in vitro porcine heart platform"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/Full-field analysis of epicardial strain in an in vitro porcine heart platform
+excerpt: 'This paper analyses the performance of 3D-DIC in analysing full-field strains in the epicardial surface'
+date: 30 November 2018.
+venue: 'Journal of the Mechanical Behavior of Biomedical Materials'
+paperurl: 'https://doi.org/10.1016/j.jmbbm.2018.11.025'
+citation: 'Ferraiuoli, P (2018). &quot;Full-field analysis of epicardial strain in an in vitro porcine heart platform.&quot; <i>Journal of the Mechanical Behavior of Biomedical Materials</i>. 2019;91:294–300.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper analyses the performance of 3D-DIC in analysing full-field strains in the epicardial surface.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1751616118313092/pdfft?md5=72dbbcbc45ee1475882cc267016a789b&pid=1-s2.0-S1751616118313092-main.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Ferraiuoli P, Kappler B, van Tuijl S, Stijnen M, de Mol BAJM, Fenner JW, et al. Full-field analysis of epicardial strain in an in vitro porcine heart platform. <i>J Mech Behav Biomed Mater</i> 2019;91:294–300. doi:10.1016/j.jmbbm.2018.11.025.
