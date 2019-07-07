@@ -51,7 +51,7 @@
   background-color: $lighter-gray;
   display: block;
   list-style-type: none;
-  white-space: nowrap;
+  white-space: wrap;
 
   &--lg {
     padding-right: 2em;
