@@ -18,7 +18,7 @@ Strain measurements were successfully accomplished in a region of the lateral le
 This study demonstrated the feasibility of applying 3D-DIC in a dynamic passive heart simulator. Most importantly, non-contact measurements were obtained at a high spatial resolution (1.5 mm) allowing resolution of local variation of strain on the epicardial surface during ventricular filling. The experimental framework developed in this paper provides detailed measurement of cardiac strains under controlled conditions, as a reference for validation of clinical cardiac strain imaging modalities. [Download Full-Text](https://www.sciencedirect.com/science/article/pii/S1751616118313092/pdfft?md5=72dbbcbc45ee1475882cc267016a789b&pid=1-s2.0-S1751616118313092-main.pdf)
 <br>
 <center><img src= "/images/JMBBM.jpg"></center>
-<center><Visual abstract></center>
+<center>Visual abstract</center>
 <br>
 
 
