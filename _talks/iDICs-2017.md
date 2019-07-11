@@ -2,10 +2,10 @@
 title: "Uncertainty of 3D-DIC in cardiac strain measurements using numerically deformed stereo images"
 collection: Presentation
 type: "Conference proceedings"
-permalink: /talks/iDIC-2017
+permalink: /talks/iDICs-2017
 venue: "iDICs 2017 Conference & Workshop"
 date: 2017-11-07
-excerpt: "Speaker in the Bio session."
+excerpt: "Speaker in the Bio session of the [International Digital Image Correlation Society Conference](iDI http://idics.org/idics-2017/."
 location: "Barcelona, Spain"
 ---
 
