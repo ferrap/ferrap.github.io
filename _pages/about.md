@@ -12,10 +12,10 @@ I'm a PhD candidate at the [University of Sheffield](https://www.sheffield.ac.uk
 
 <div class="row">
   <div class="column">
-    <img src="images/stereo_membrane_inflation_GIF.gif" alt="Stereo-image" style="width:100%">
+    <img src= "/images/stereo_membrane_inflation_GIF.gif" alt="Stereo-image" style="width:10%">
   </div>
   <div class="column">
-    <img src="images/membrane_inflation_GIF.gif" alt="3D reconstruction" style="width:100%">
+    <img src= "/images/membrane_inflation_GIF.gif" alt="3D reconstruction" style="width:10%">
   </div>
  </div>
 
