@@ -5,7 +5,7 @@ type: "Conference proceedings"
 permalink: /talks/Frontiers-2018
 venue: "Frontiers of Simulation and Experimentation for Personalised Cardiovascular Management and Treatment conference"
 date: 2018-07-19
-excerpt: "Finalist for the "Best experimental work" prize at the “Frontiers of Simulation and Experimentation for Personalised Cardiovascular Management and Treatment [conference](http://www.vph-case.eu/index.php/ta05-london/)."
+excerpt: "Finalist for the "Best experimental work" prize at the Frontiers of Simulation and Experimentation for Personalised Cardiovascular Management and Treatment [conference](http://www.vph-case.eu/index.php/ta05-london/)."
 location: "London, UK"
 ---
 
