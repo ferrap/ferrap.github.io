@@ -5,7 +5,7 @@ type: "Conference proceedings"
 permalink: /talks/iDICs-2017
 venue: "iDICs 2017 Conference & Workshop"
 date: 2017-11-07
-excerpt: "Speaker in the Bio session of the [International Digital Image Correlation Society Conference](iDI http://idics.org/idics-2017/."
+excerpt: "Speaker in the Bio session of the International Digital Image Correlation Society Conference [iDICs](http://idics.org/idics-2017/)."
 location: "Barcelona, Spain"
 ---
 
