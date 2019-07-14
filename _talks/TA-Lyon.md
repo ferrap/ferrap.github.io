@@ -4,7 +4,7 @@ collection: Presentation
 type: "Training activity"
 permalink: /talks/TA-Lyon
 venue: "Centre National de la Recherche Scientifique (CNRS)"
-date: 2016-06-13
+date: 2017-06-19
 excerpt: "Update on the latest development of the VPH-CaSE project"
 location: "Lyon, France"
 ---
