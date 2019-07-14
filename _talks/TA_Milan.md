@@ -14,4 +14,4 @@ The training was mostly targeted at the presentation of some of the most advance
 The event also included in the programme visits to the production sites of two major medical device Companies in Italy, Medtronic – Endovascular Therapies and LivaNova (formerly Sorin Group Italia), both VPH-CaSE Partners.
 
 <b>
-<center><img src ="http://www.vph-case.eu/wordpress/wp-content/uploads/2016/08/Milan1.jpg">
+<center><img src ="http://www.vph-case.eu/wordpress/wp-content/uploads/2016/08/Milan1.jpg"><center>
