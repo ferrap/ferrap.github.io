@@ -3,7 +3,7 @@ title: "VPH-CaSE training activity in Milan"
 collection: Presentation
 type: "Training activity"
 permalink: /talks/TA-Milan
-venue: "12th International Conference on Advances in Experimental Mechanics"
+venue: "Politecnico di Milano"
 date: 2016-06-13
 excerpt: "Update on the latest development of the VPH-CaSE project"
 location: "Milan, Italy"
