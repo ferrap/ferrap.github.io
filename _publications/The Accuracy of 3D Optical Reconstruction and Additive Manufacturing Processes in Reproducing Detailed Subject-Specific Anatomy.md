@@ -1,8 +1,8 @@
 ---
 title: "The Accuracy of 3D Optical Reconstruction and Additive Manufacturing Processes in Reproducing Detailed Subject-Specific Anatomy"
-authors:"Ferraiuoli, P., Taylor, J.C., Martin, E., Fenner, J.W., Narracott, A.J."
+authors: "Ferraiuoli, P., Taylor, J.C., Martin, E., Fenner, J.W., Narracott, A.J."
 collection: publications
-permalink: /publication/The Accuracy of 3D Optical Reconstruction and Additive Manufacturing Processes in Reproducing Detailed Subject-Specific Anatomy
+permalink: /publication/The-Accuracy-of-3D-Optical-Reconstruction-and-Additive-Manufacturing-Processes-in-Reproducing-Detailed-Subject-Specific-Anatomy
 excerpt: 'This paper assesses the accuracy of 3D-DIC in the geometric reconstruction of the cardiac surface'
 date: 2017-10-12
 venue: 'Journal of Imaging'
