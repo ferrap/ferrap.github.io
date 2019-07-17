@@ -2,7 +2,7 @@
 title: "Full-field analysis of epicardial strain in an in vitro porcine heart platform"
 authors: "Ferraiuoli, P., Kappler, B., van Tuijl, S., Stijnen, M., de Mol, B.A., Fenner, J.W. and Narracott, A.J."
 collection: publications
-permalink: /publication/Full-field analysis of epicardial strain in an in vitro porcine heart platform
+permalink: /publication/Full-field-analysis-of-epicardial-strain-in-an-in-vitro-porcine-heart-platform
 excerpt: 'This paper analyses the performance of 3D-DIC in analysing full-field strains in the epicardial surface'
 date: 2018-11-30
 venue: 'Journal of the Mechanical Behavior of Biomedical Materials'
