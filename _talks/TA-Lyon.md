@@ -1,6 +1,6 @@
 ---
 title: "VPH-CaSE training activity in Lyon"
-collection: Presentation
+collection: talks
 type: "Training activity"
 permalink: /talks/TA-Lyon
 venue: "Centre National de la Recherche Scientifique (CNRS)"
