@@ -1,6 +1,6 @@
 ---
 title: "VPH-CaSE training activity in Milan"
-collection: Presentation
+collection: talks
 type: "Training activity"
 permalink: /talks/TA-Milan
 venue: "Politecnico di Milano"
