@@ -1,6 +1,6 @@
 ---
 title: "VPH-CaSE training activity in Eindhoven"
-collection: Presentation
+collection: talks
 type: "Training activity"
 permalink: /talks/TA-Eindhoven
 venue: "Univerisity of Technology of Eindhoven (TU/e)"
