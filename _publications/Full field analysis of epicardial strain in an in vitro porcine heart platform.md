@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/Full-field-analysis-of-epicardial-strain-in-an-in-vitro-porcine-heart-platform
 excerpt: 'This paper analyses the performance of 3D-DIC in analysing full-field strains in the epicardial surface'
 date: 2018-11-30
-venue: '[Journal of the Mechanical Behavior of Biomedical Materials](https://www.journals.elsevier.com/journal-of-the-mechanical-behavior-of-biomedical-materials)'
+venue: '<a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>'
 paperurl: 'https://doi.org/10.1016/j.jmbbm.2018.11.025'
 citation: 'Ferraiuoli, P., Kappler, B., van Tuijl, S., Stijnen, M., de Mol, B.A., Fenner, J.W. and Narracott, A.J., 2019. Full-field analysis of epicardial strain in an in vitro porcine heart platform. <i>Journal of the mechanical behavior of biomedical materials</i>, 91, pp.294-300.'
 ---
