@@ -1,6 +1,6 @@
 ---
 title: "Analysis of Speckle Pattern Quality and Uncertainty for Cardiac Strain Measurements Using 3D Digital Image Correlation"
-collection: Presentation
+collection: talks
 type: "Conference proceedings"
 permalink: /talks/VipIMAGE-2017
 venue: "VipIMAGE 2017"
