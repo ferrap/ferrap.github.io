@@ -1,6 +1,6 @@
 ---
 title: "Uncertainty of 3D-DIC in cardiac strain measurements using numerically deformed stereo images"
-collection: Presentation
+collection: talks
 type: "Conference proceedings"
 permalink: /talks/iDICs-2017
 venue: "iDICs 2017 Conference & Workshop"
