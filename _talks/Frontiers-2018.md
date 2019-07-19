@@ -1,6 +1,6 @@
 ---
 title: "Optical Strain Measurements in a Passive Heart Simulator Loaded with different haemodynamic conditions"
-collection: Presentation
+collection: talks
 type: "Conference proceedings"
 permalink: /talks/Frontiers-2018
 venue: "Frontiers of Simulation and Experimentation for Personalised Cardiovascular Management and Treatment conference"
