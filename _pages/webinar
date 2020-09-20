@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Webinar"
+permalink: /webinar/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.webinar reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
