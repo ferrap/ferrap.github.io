@@ -2,5 +2,4 @@
 title: "Alla scoperta di Tableau"
 collection: webinar
 ---
-<div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="//cdn.iframe.ly/bMaqudB" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen allow="encrypted-media *"></iframe></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
-
+<iframe src="https://f1.media.brightcove.com/12/3798483592001/3798483592001_6123199857001_6123193575001.mp4" name="iFrame Name" scrolling="No" height="500px" width="100%" style="border: none;"></iframe>
