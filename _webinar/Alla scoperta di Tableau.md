@@ -1,6 +1,6 @@
 ---
-title: "Alla scoperta di Tableau"
-excerpt: "[Scopri come l'obiettivo di Tableau, aiutare le persone a riconoscere e comprendere i dati, può rivoluzionare la tua organizzazione grazie alla potenza dei dati.](https://www.tableau.com/it-it/learn/webinars/alla-scoperta-di-tableau)"
-collection: webinar
+title: "Dataset from *J. Imaging* article"
+excerpt: "Dataset associated with *The accuracy of 3D optical reconstruction and additive manufacturing processes in reproducing detailed subject-specific anatomy* publication (Available to download also from [Figshare](https://doi.org/10.15131/shef.data.5426683.v1))."
+collection: portfolio
 ---
-<iframe src="https://f1.media.brightcove.com/12/3798483592001/3798483592001_6123199857001_6123193575001.mp4" name="iFrame Name" scrolling="No" height="500px" width="100%" style="border: none;"></iframe>
+<iframe src="https://widgets.figshare.com/articles/5426683/embed?show_title=1" width="700" height="433" allowfullscreen="true" frameborder="0"></iframe>
