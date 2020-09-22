@@ -1,11 +1,11 @@
 ---
-permalink: /about/
+permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
-#redirect_from: 
-#  - /about/
-#  - /about.html
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I got a PhD in Engineering at the [University of Sheffield](https://www.sheffield.ac.uk/) <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/198/flag-for-united-kingdom_1f1ec-1f1e7.png" width="25" height="25" />. My research focused on the development of optical methods <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/198/camera_1f4f7.png" width="25" height="25" /> combining image processing and computer vision techniques to characterise the heart muscle deformation and detect the advancement of cardiovascular diseases <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/198/broken-heart_1f494.png" width="25" height="25" /> .
