@@ -10,14 +10,14 @@ main:
   - title: "Portfolio"
     url: /portfolio/
     
-# - title: "Webinar"
-#   url: /webinar/
+  - title: "Webinar"
+    url: /webinar/
     
 #  - title: "Teaching"
 #    url: /teaching/    
   
-  - title: "Blog Posts"
-    url: /posts/
+#  - title: "Blog Posts"
+#    url: /posts/
     
 #  - title: "CV"
 #    url: /cv/
