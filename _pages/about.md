@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Currently, I work at [Tableau Software](https://www.tableau.com/) (a [Salesforce](https://www.salesforce.com/) company) as Solution Engineer <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/bar-chart_1f4ca.png" width="25" height="25" />.
+
 I got a PhD in Engineering at the [University of Sheffield](https://www.sheffield.ac.uk/) <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/198/flag-for-united-kingdom_1f1ec-1f1e7.png" width="25" height="25" />. My research focused on the development of optical methods <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/198/camera_1f4f7.png" width="25" height="25" /> combining image processing and computer vision techniques to characterise the heart muscle deformation and detect the advancement of cardiovascular diseases <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/198/broken-heart_1f494.png" width="25" height="25" /> .
 
 As [Marie Curie fellow](https://ec.europa.eu/research/mariecurieactions/node_en) <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/flag-for-european-union_1f1ea-1f1fa.png" width="25" height="25" />, I have been a member of a European network made of several universities and biomedical companies ([VPH-CaSE](http://www.vph-case.eu/)).
