@@ -188,9 +188,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  webinar:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -248,15 +245,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _webinar
-  - scope:
-      path: ""
-      type: webinar
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      
+
 
 # Sass/SCSS
 sass:
