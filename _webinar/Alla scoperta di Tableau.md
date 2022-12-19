@@ -1,5 +1,5 @@
 ---
-title: "(Italian) Alla scoperta di Tableau"
+title: "Alla scoperta di Tableau [Italian]"
 excerpt: "Scopri come l'obiettivo di Tableau, aiutare le persone a riconoscere e comprendere i dati, può rivoluzionare la tua organizzazione grazie alla potenza dei dati."
 collection: webinar
 ---
