@@ -1,5 +1,5 @@
 ---
-title: (Italian) "Utilizza i dati giusti per le tue analisi con Tableau Data Management"
+title: Utilizza i dati giusti per le tue analisi con Tableau Data Management [Italian]
 excerpt: "Tableau Data Management ti aiuta a gestire meglio i dati nel tuo ambiente di analisi e a prendere sempre decisioni sulla base di dati attendibili e aggiornati."
 collection: webinar
 ---
