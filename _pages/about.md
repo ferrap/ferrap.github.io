@@ -12,7 +12,7 @@ I am an experienced presale professional in the B2B SaaS industry, with a proven
 
 # What I've been up to so far
 
-Currently, I'm a Solutions Engineer at [Samsara](https://www.samsara.com/). Previously, I worked in the same role at [Fivetran](https://www.fivetran.com/)and [Tableau Software](https://www.tableau.com/) (a [Salesforce](https://www.salesforce.com/) company).
+Currently, I'm a Solutions Engineer at [Samsara](https://www.samsara.com/). Previously, I worked in the same role at [Fivetran](https://www.fivetran.com/) and [Tableau Software](https://www.tableau.com/) (a [Salesforce](https://www.salesforce.com/) company).
 
 Before embarking on the presales journey, I completed a PhD in Bio-Engineering at the [University of Sheffield](https://www.sheffield.ac.uk/). My research focused on the development of optical methods combining image processing and computer vision techniques to characterise heart muscle deformation and detect the advancement of cardiovascular diseases. As [Marie Curie fellow](https://ec.europa.eu/research/mariecurieactions/node_en), I have been a member of a European network made of several universities and biomedical companies ([VPH-CaSE](https://cordis.europa.eu/project/id/642612)).
 
